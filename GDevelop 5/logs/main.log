@@ -1,0 +1,9 @@
+[2022-05-23 05:25:41.994] [info] GDevelop Electron app starting...
+[2022-06-05 06:54:47.870] [info] GDevelop Electron app starting...
+[2022-06-05 06:55:13.525] [info] GDevelop Electron app starting...
+[2022-06-05 06:55:26.514] [info] Starting check for updates (with auto-download if any)
+[2022-06-05 06:55:26.516] [info] Checking for update
+[2022-06-05 06:55:26.517] [info] { message: 'Checking for update...', status: 'checking-for-update' }
+[2022-06-05 06:55:26.629] [info] Generated new staging user ID: 4f50ab83-74ec-58d6-b594-ec236be1fa4a
+[2022-06-05 06:55:28.283] [info] Update for version 5.0.135 is not available (latest version: 5.0.135, downgrade is disallowed).
+[2022-06-05 06:55:28.284] [info] { message: 'Update not available.', status: 'update-not-available' }

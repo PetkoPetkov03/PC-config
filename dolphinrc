@@ -1,0 +1,21 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,5,18,14,40,19.597
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[Search]
+Location=Everywhere
+
+[Icons]
+Theme=breeze
